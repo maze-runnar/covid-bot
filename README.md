@@ -1,5 +1,5 @@
-# COVID-19 Bot
-
+# COVID Bot
+## Cure Mate 
 This is an open source multi-channel (Messenger, Telegram and LINE) bot for querying and subscribing information and data about **Novel Coronavirus (COVID-19)**.
 
 The data mainly comes from [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) and [pomber/covid19](https://github.com/pomber/covid19) repositories.
@@ -114,7 +114,3 @@ LINE_CHANNEL_SECRET=
 ```
 
 To set the LINE webhook, edit your webhook setting on LINE Developers Console.
-
-## License
-
-MIT
